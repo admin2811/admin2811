@@ -1,4 +1,8 @@
-
+## Hi, I'm Duc Minh!👋
+🚀 Full Stack Developer with 5 years of experience in web development, Shopify, and freelancing<br/>
+🎥 Sharing my journey and tips on web development, freelancing, and tech trends on YouTube<br/>
+💻 #codinginpublic in my digital space here<br/>
+📚 Currently learning Figma and Webflow to create awesome websites!<br/>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Minh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Minh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Minh) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Minh) 
 
