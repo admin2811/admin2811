@@ -29,4 +29,4 @@
 
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=admin2811&show_icons=true&locale=en" alt="admin2811" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=admin2811&" alt="admin2811" /></p>
+<p algin = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=admin2811&" alt="admin2811" /></p>
