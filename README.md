@@ -1,3 +1,4 @@
+![Your Alt Text](assets/iko2.gif)
 ## Hi, I'm Duc Minh!👋
 🚀 Full Stack Developer with 5 years of experience in web development, Shopify, and freelancing<br/>
 🎥 Sharing my journey and tips on web development, freelancing, and tech trends on YouTube<br/>
