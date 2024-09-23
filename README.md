@@ -25,8 +25,8 @@
 <h3 align="left">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/duc minh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="duc minh" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=admin2811&show_icons=true&locale=en&layout=compact" alt="admin2811" /></p>
+<p align = "left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=admin2811&show_icons=true&locale=en&layout=compact" alt="admin2811" /></p>
 
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=admin2811&show_icons=true&locale=en" alt="admin2811" /></p>
+<p align = "center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=admin2811&show_icons=true&locale=en" alt="admin2811" /></p>
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=admin2811&" alt="admin2811" /></p>
