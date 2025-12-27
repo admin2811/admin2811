@@ -1,21 +1,21 @@
 ![Your Alt Text](assets/iko2.gif)
 ## Hey there! 👋
 
-I'm Minh, a backend-focused software developer.
+ - I'm Minh, a backend-focused software developer.
 
-I build backend systems that are reliable, scalable, and easy to maintain.
+ - I build backend systems that are reliable, scalable, and easy to maintain.
 
-If a problem looks complex, I enjoy breaking it down and designing a clean solution for it.
+ - If a problem looks complex, I enjoy breaking it down and designing a clean solution for it.
 
-My main tech stack is Java, Spring Boot, Spring Security, and SQL.
-On the infrastructure side, I work with AWS and Docker.
+ - My main tech stack is Java, Javascripts, Spring Boot, NestJS , and SQL.
+ - On the infrastructure side, I work with AWS and Docker.
 
-I've got a few pinned projects here, mostly backend services and APIs.
-They reflect how I think about system design, code quality, and long-term maintainability.
+ - I've got a few pinned projects here, mostly backend services and APIs.
+ - They reflect how I think about system design, code quality, and long-term maintainability.
 
-I've worked on many personal and learning projects, and I'm constantly improving my skills through real-world practice.
+ - I've worked on many personal and learning projects, and I'm constantly improving my skills through real-world practice.
 
-If you want to see how I build things, feel free to check out my projects or reach out to me.
+ - If you want to see how I build things, feel free to check out my projects or reach out to me.
 
 Fun facts:
 - I enjoy working on backend problems more than UI
