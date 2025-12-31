@@ -7,8 +7,8 @@
 
  - If a problem looks complex, I enjoy breaking it down and designing a clean solution for it.
 
- - My main tech stack is Java, Javascripts, Spring Boot, NestJS , and SQL.
- - On the infrastructure side, I work with AWS and Docker.
+ - My main tech stack is Java, Javascripts, Python, Spring Boot, NestJS , and SQL.
+ - On the infrastructure side, I work with AWS and Docker, K8s.
 
  - I've got a few pinned projects here, mostly backend services and APIs.
  - They reflect how I think about system design, code quality, and long-term maintainability.
